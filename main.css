@@ -83,6 +83,8 @@ li{
 .centered{
     top:180%
 }
+.image-res{
+    height:100% !important;
 }
 @media (min-width:992px) {
 .container-top{
@@ -96,5 +98,8 @@ li{
 }
 .centered{
     top:63%
+}
+.image-res{
+    height:335px; !important;
 }
 }
