@@ -84,7 +84,7 @@ li{
     top:180%
 }
 .image-res{
-    height:100% !important;
+    height:100%;
 }
 @media (min-width:992px) {
 .container-top{
